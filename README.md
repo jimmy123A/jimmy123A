@@ -123,6 +123,8 @@ https://github.com/Platane/snk-->
 <!--ICONS-->
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
+ <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+ <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
