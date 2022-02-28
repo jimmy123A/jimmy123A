@@ -80,7 +80,7 @@ https://github.com/anuraghazra/github-readme-stats-->
 <!--ACTIVITYGRAPH
 WEBSITE:
 https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
-![Github Activity Graph](https://intense-river-40395.herokuapp.com/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e)
+![Github Activity Graph](https://intense-river-40395.herokuapp.com/graph?username=Jimmy&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e)
  
 <!--SNAKE
 WEBSITE:
@@ -122,7 +122,7 @@ https://github.com/Platane/snk-->
 <img src="https://i.imgur.com/ozEwbHs.gif">
 <!--ICONS-->
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwNMXOoulyAZZdvIcOk5FeSkOyI390CO1Iw&usqp=CAU" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
