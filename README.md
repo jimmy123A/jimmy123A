@@ -122,7 +122,7 @@ https://github.com/Platane/snk-->
 <img src="https://i.imgur.com/ozEwbHs.gif">
 <!--ICONS-->
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwNMXOoulyAZZdvIcOk5FeSkOyI390CO1Iw&usqp=CAU" width="60">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
