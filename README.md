@@ -70,7 +70,7 @@ https://asciiart.website/-->
 WEBSITE:
 https://github.com/anuraghazra/github-readme-stats-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=jimmy&theme=merko&date_format=M%20j%5B%2C%20Y%5D" >
+<img src="https://github-readme-stats.vercel.app/api?username=Jimmy&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=jimmy&theme=merko&date_format=M%20j%5B%2C%20Y%5D" >
 <!--LANGUAGES
 WEBSITE:
 https://github.com/anuraghazra/github-readme-stats-->
