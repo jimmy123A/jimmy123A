@@ -38,15 +38,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.masterJiMm00.com"><img src="https://img.shields.io/badge/-jimmy123A.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/MasterJiMm00"><img src="https://img.shields.io/badge/-Aditya%2jimmy12-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:masterJiMm00@dev.edu"><img src="" /></a>
-<a href="https://instagram.com/MasterJiMm00"></a>
-<a href="https://www.facebook.com/MasterJiMm00/"></a>
-<a href="https://www.pinterest.ca/MasterJiMm00"></a>
-<a href="https://www.behance.net/MasterJiMm00"></a>
-</p>
