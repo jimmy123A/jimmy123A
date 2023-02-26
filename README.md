@@ -44,9 +44,9 @@
 <p align="center">
 <a href="https://www.masterJiMm00.com"><img src="https://img.shields.io/badge/-jimmy123A.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/MasterJiMm00"><img src="https://img.shields.io/badge/-Aditya%2jimmy12-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:masterJiMm00@dev.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/MasterJiMm00"><img src="https://img.shields.io/badge/-@jimmy123A__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/MasterJiMm00/"><img src="https://img.shields.io/badge/-@Ajksjd2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/MasterJiMm00"><img src="https://img.shields.io/badge/-@AVSkjkj081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/MasterJiMm00"><img src="https://img.shields.io/badge/-@AVSkjkjds-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="mailto:masterJiMm00@dev.edu"></a>
+<a href="https://instagram.com/MasterJiMm00"></a>
+<a href="https://www.facebook.com/MasterJiMm00/"></a>
+<a href="https://www.pinterest.ca/MasterJiMm00"></a>
+<a href="https://www.behance.net/MasterJiMm00"></a>
 </p>
