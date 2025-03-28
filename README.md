@@ -1,11 +1,6 @@
-![Dimitris Dimopoulos Banner](https://i.ibb.co/zRKJ5XR/yo.png)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Dimitris</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+![Dimitris](https://i.ibb.co/zRKJ5XR/yo.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;Always evolving and learning new stuff related to Web and Mobile development.\
