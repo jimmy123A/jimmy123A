@@ -1,5 +1,3 @@
-![Dimitris](https://i.ibb.co/zRKJ5XR/yo.png)
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
