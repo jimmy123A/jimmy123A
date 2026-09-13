@@ -2,9 +2,9 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;Always evolving and learning new stuff related to Web and Mobile app development.\
-✍️ &nbsp;In my free time, I'm doing freelancing as a side/hassle and improving my startups.\
+✍️ &nbsp;In my free time, I'm doing freelancing as a side hustle and improving my startups.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dimitrisdas2@gmail.com ! I'll try to respond as soon as I can  
+✉️ &nbsp;You can shoot me an email at dimitrisdas2@gmail.com! I'll try to respond as soon as I can\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
