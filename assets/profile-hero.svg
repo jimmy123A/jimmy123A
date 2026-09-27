@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dimitris Dimopoulos</title>
+  <desc id="desc">Product-focused full-stack engineer building spatial, visual, and cross-platform software</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0a1d2d"/>
+      <stop offset="1" stop-color="#073344"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#6ee7f9" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+
+  <g opacity=".16" fill="none" stroke="#67e8f9" stroke-width="1.2">
+    <path d="M34 351H183V293H262V206H341V99H516"/>
+    <path d="M84 389V325H227V252H299V154H448V43"/>
+    <path d="M719 50H891V102H1084V184H1165"/>
+    <path d="M775 381V311H851V236H973V157H1118V89"/>
+    <path d="M895 381V337H1031V269H1173"/>
+  </g>
+
+  <g transform="translate(842 117)">
+    <path d="M0 48 141 0l160 61-2 167-148 55L1 221Z" fill="#0b2636" stroke="url(#line)" stroke-width="2"/>
+    <path d="m1 48 149 56 151-43M150 104l1 179M76 76v90l74 27 75-28V88M1 221l75-27v-28M299 228l-74-29v-34" fill="none" stroke="#38bdf8" stroke-opacity=".72" stroke-width="1.5"/>
+    <path d="m76 166 74-25 75 24-75 28Z" fill="#2dd4bf" fill-opacity=".09" stroke="#2dd4bf" stroke-opacity=".65"/>
+    <circle cx="150" cy="141" r="5" fill="#5eead4" filter="url(#glow)"/>
+    <path d="M150 141 141 99h18Z" fill="#5eead4" fill-opacity=".32"/>
+  </g>
+
+  <g transform="translate(73 74)">
+    <rect width="54" height="4" rx="2" fill="url(#line)"/>
+    <text x="0" y="81" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">
+      Dimitris Dimopoulos
+    </text>
+    <text x="2" y="129" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="2.4">
+      PRODUCT-FOCUSED FULL-STACK ENGINEER
+    </text>
+    <text x="2" y="190" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">
+      Building spatial, visual, and cross-platform software.
+    </text>
+    <g transform="translate(2 240)" fill="none" stroke="#5eead4" stroke-width="1.2">
+      <path d="M0 13h14V0h13v13h14v14H27v13H14V27H0Z" opacity=".9"/>
+      <path d="M60 20h262" stroke-opacity=".5"/>
+      <circle cx="333" cy="20" r="4" fill="#38bdf8" stroke="none" filter="url(#glow)"/>
+    </g>
+    <text x="2" y="327" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" letter-spacing=".8">
+      2D / 3D · MAPS · GEOMETRY · WEB · NATIVE
+    </text>
+  </g>
+
+  <path d="M24 24h36M24 24v36M1176 396h-36M1176 396v-36" fill="none" stroke="#5eead4" stroke-opacity=".7" stroke-width="2"/>
+</svg>
